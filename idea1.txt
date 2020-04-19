@@ -1,9 +1,8 @@
 my idea file
 million dollar idea
 billion dollar idea
-<<<<<<< HEAD
 trillion dollar idea
-=======
 oru kodi dollar idea
->>>>>>> branch2
+
+Merge conflicts recolved now
 
